@@ -20,7 +20,7 @@ public class UserController {
                 PUT    /update/{id}
                 DELETE /delete/{id}
 
-                Version : 3.0
+                Version : 4.0
                 Status  : Running Successfully
 				""";
 	}
